@@ -2,8 +2,8 @@
 #                                                                                               #
 #   Author: Azod                                                                                #
 #   Github: github.com/AzodFR                                                                   #
-#   Comments: Just launch the script, strat the test and place the cursor on the red color       #
-#                                                                                               #  
+#   Comments: Just launch the script, strat the test and place the cursor on the red color      #
+#                                                                                               #
 #################################################################################################
 import pyautogui as pg
 
