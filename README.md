@@ -1,11 +1,13 @@
 # HumanBenchmarkPy
 
-HumanBenchmarkPy is a project for automate all the humanbenchmark's tests.
+HumanBenchmarkPy is a project for automate all the humanbenchmark's tests whit python.
 
 ## Requierments
 
-To use thes scripts you need to have:
-  -Python 3+
+To use these scripts you need to have:
+
+  -Python 3.x
+  
   -pyautogui
   
 ## Installation
