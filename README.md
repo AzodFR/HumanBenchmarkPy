@@ -1,6 +1,8 @@
 # HumanBenchmarkPy
 
-HumanBenchmarkPy is a project for automate/semi-automate all the humanbenchmark's tests whit python.
+HumanBenchmarkPy is a project for automate/semi-automate all the 
+[humanbenchmark](https://humanbenchmark.com)
+'s tests whit python.
 
 ## Requierments
 
